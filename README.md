@@ -12,6 +12,9 @@ Test Environment
 - Chrome browser under automated control
 - Workspace: `basic_selenium` project in Eclipse (package `seleniumautomation`)
 
+ <img src="image2.jpg" alt="Logo" width="200"/>
+
+
 Run Walkthrough
 ---------------
 1. Launched the Flipkart login page — the driver confirmed the page was up.
@@ -23,6 +26,8 @@ Run Walkthrough
 7. Wrote the captured product details to `C:\selenium\Flipkart_Mobiles.txt`.
 8. Captured a screenshot of the results page for reference.
 
+    <img src="image3.jpg" alt="Logo" width="200"/>
+
 Outcome
 -------
 - Products found: 24
@@ -30,9 +35,15 @@ Outcome
 - Screenshot: stored alongside the output in the same run directory
 - Console reported: “Test completed successfully — products extracted & screenshot captured.”
 
+   <img src="image4.jpg" alt="Logo" width="200"/>
+
+
+    <img src="image5.jpg" alt="Logo" width="200"/>
+
 Next Steps
 ----------
 If I need to re-run the test, I just have to update any credentials, verify the output paths exist, and execute `selenium1.java` again from Eclipse.
+
 
 
 
