@@ -3,6 +3,9 @@ Flipkart Mobile Search Automation
 
 I put together a quick Selenium script to automate the Flipkart login and mobile search flow. Below is a summary of what the run looked like on my machine.
 
+<img src="image1.jpg" alt="Logo" width="200"/>
+
+
 Test Environment
 ----------------
 - Java 21 with Selenium bindings
@@ -30,4 +33,5 @@ Outcome
 Next Steps
 ----------
 If I need to re-run the test, I just have to update any credentials, verify the output paths exist, and execute `selenium1.java` again from Eclipse.
+
 
